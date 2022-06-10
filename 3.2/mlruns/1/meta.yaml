@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/simran.maurya/Desktop/Tiger_Assignments/MODULE%203/3.2/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Housing_Price_Prediction_Experiment
