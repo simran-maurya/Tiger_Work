@@ -16,6 +16,10 @@ Prerequisite dependencies are stored in `enviornment_file/env.yml`. To setup the
 
 `$ conda activate mle-dev`
 
+Can download the package from:
+
+`$ pip install -i https://test.pypi.org/simple/ files-for-housing`
+
 ### Setup:
 For editable install:
 `$ pip install -e .`
