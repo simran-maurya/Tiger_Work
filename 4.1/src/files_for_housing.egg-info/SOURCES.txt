@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/files_for_housing/__init__.py
+src/files_for_housing/dict_Config_logger_implementation_file.py
+src/files_for_housing/ingest_data.py
+src/files_for_housing/score.py
+src/files_for_housing/train.py
+src/files_for_housing.egg-info/PKG-INFO
+src/files_for_housing.egg-info/SOURCES.txt
+src/files_for_housing.egg-info/dependency_links.txt
+src/files_for_housing.egg-info/top_level.txt
+test/test_ingest_data.py
+test/test_score.py
+test/test_train.py
